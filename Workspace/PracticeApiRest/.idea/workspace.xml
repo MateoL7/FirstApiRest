@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="91b7fe00-1dc3-47f1-b441-e1431c27e7c1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.xtext.builder/builder.state" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema/src/main/java/edu/icesi/co/control/BindController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema/src/main/java/edu/icesi/co/control/DeleteController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema/src/main/java/edu/icesi/co/control/MainController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema/src/main/java/edu/icesi/co/control/RegisterController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema/src/main/java/edu/icesi/co/control/SearchController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema/src/main/java/edu/icesi/co/db/SQLConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema/src/main/java/edu/icesi/co/main/Launcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema/src/main/java/edu/icesi/co/model/Actor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema/src/main/java/edu/icesi/co/model/Genero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema/src/main/java/edu/icesi/co/model/Pelicula.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema/src/main/java/edu/icesi/co/view/BindWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema/src/main/java/edu/icesi/co/view/DeleteWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema/src/main/java/edu/icesi/co/view/MainWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema/src/main/java/edu/icesi/co/view/RegisterWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema/src/main/java/edu/icesi/co/view/SearchWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema/src/main/resources/BindWindow.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema/src/main/resources/DeleteWindow.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema/src/main/resources/MainWindow.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema/src/main/resources/RegisterWindow.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema/src/main/resources/SearchWindow.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema/src/test/java/edu/icesi/co/LauncherTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConexionJAVAMySQL/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConexionJAVAMySQL/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConexionJAVAMySQL/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConexionJAVAMySQL/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConexionJAVAMySQL/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConexionJAVAMySQL/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConexionJAVAMySQL/ConexionJAVAMySQL.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConexionJAVAMySQL/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConexionJAVAMySQL/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConexionJAVAMySQL/src/main/java/org/example/Estudiante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConexionJAVAMySQL/src/main/java/org/example/MySQLConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConexionJAVAMySQL/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConexionJAVAMySQL/target/classes/org/example/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConexionJAVAMySQL/target/classes/org/example/Estudiante.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConexionJAVAMySQL/target/classes/org/example/MySQLConnection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConexionJAVAMySQL/target/test-classes/org/example/AppTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstApiRest/FirstApiRest/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstApiRest/FirstApiRest/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstApiRest/FirstApiRest/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstApiRest/FirstApiRest/.idea/libraries/Java_EE_6_Java_EE_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstApiRest/FirstApiRest/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstApiRest/FirstApiRest/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstApiRest/FirstApiRest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstApiRest/FirstApiRest/FirstApiRest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstApiRest/FirstApiRest/lib/javax.ejb.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstApiRest/FirstApiRest/lib/javax.jms.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstApiRest/FirstApiRest/lib/javax.persistence.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstApiRest/FirstApiRest/lib/javax.resource.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstApiRest/FirstApiRest/lib/javax.servlet.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstApiRest/FirstApiRest/lib/javax.servlet.jsp.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstApiRest/FirstApiRest/lib/javax.servlet.jsp.jstl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstApiRest/FirstApiRest/lib/javax.transaction.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstApiRest/FirstApiRest/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstApiRest/FirstApiRest/src/main/java/config/ApplicationConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstApiRest/FirstApiRest/src/main/java/db/MySQLConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstApiRest/FirstApiRest/src/main/java/entity/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstApiRest/FirstApiRest/src/main/java/entity/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstApiRest/FirstApiRest/src/main/java/entity/StudentCourseRelationship.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstApiRest/FirstApiRest/src/main/java/entity/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstApiRest/FirstApiRest/src/main/java/model/dto/Answer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstApiRest/FirstApiRest/src/main/java/model/dto/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstApiRest/FirstApiRest/src/main/java/model/dto/CourseDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstApiRest/FirstApiRest/src/main/java/model/dto/Division.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstApiRest/FirstApiRest/src/main/java/model/dto/Multiplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstApiRest/FirstApiRest/src/main/java/model/dto/Response.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstApiRest/FirstApiRest/src/main/java/model/dto/TeacherDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstApiRest/FirstApiRest/src/main/java/model/provider/CourseProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstApiRest/FirstApiRest/src/main/java/model/provider/StudentProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstApiRest/FirstApiRest/src/main/java/model/provider/TeacherProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstApiRest/FirstApiRest/src/main/java/services/AddCService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstApiRest/FirstApiRest/src/main/java/services/CourseServices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstApiRest/FirstApiRest/src/main/java/services/DatabaseServices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstApiRest/FirstApiRest/src/main/java/services/EchoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstApiRest/FirstApiRest/src/main/java/services/MathService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstApiRest/FirstApiRest/src/main/java/services/StudentServices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstApiRest/FirstApiRest/src/main/java/services/TeacherServices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstApiRest/FirstApiRest/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstApiRest/FirstApiRest/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../apache-tomcat-9.0.39/webapps/FirstApiRest/WEB-INF/classes/model/provider/CourseProvider.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../apache-tomcat-9.0.39/webapps/FirstApiRest/WEB-INF/classes/model/provider/StudentProvider.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../apache-tomcat-9.0.39/webapps/FirstApiRest/WEB-INF/classes/model/provider/TeacherProvider.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.1\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jYWBEVzyzutp21JpIquSXnkWxn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91b7fe00-1dc3-47f1-b441-e1431c27e7c1" name="Default Changelist" comment="" />
+      <created>1603981377760</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603981377760</updated>
+      <workItem from="1603981379290" duration="3000" />
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
